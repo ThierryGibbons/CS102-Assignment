@@ -20,6 +20,10 @@
 
 /* Begin PBXFileReference section */
 		E47A400528E5145600F4C8C5 /* CS102 - Task 1 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "CS102 - Task 1"; sourceTree = "<group>"; };
+		E47A400628E5158900F4C8C5 /* CS102 - Task 4 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "CS102 - Task 4"; sourceTree = "<group>"; };
+		E47A400728E5158900F4C8C5 /* CS102 - Task 3 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "CS102 - Task 3"; sourceTree = "<group>"; };
+		E47A400828E5158900F4C8C5 /* CS102 - Task 2 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "CS102 - Task 2"; sourceTree = "<group>"; };
+		E47A400928E5158900F4C8C5 /* CS102 - Task 5 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "CS102 - Task 5"; sourceTree = "<group>"; };
 		E497254828E50F1A005BAEC5 /* CS102 Assignment */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "CS102 Assignment"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -38,6 +42,10 @@
 			isa = PBXGroup;
 			children = (
 				E47A400528E5145600F4C8C5 /* CS102 - Task 1 */,
+				E47A400828E5158900F4C8C5 /* CS102 - Task 2 */,
+				E47A400728E5158900F4C8C5 /* CS102 - Task 3 */,
+				E47A400628E5158900F4C8C5 /* CS102 - Task 4 */,
+				E47A400928E5158900F4C8C5 /* CS102 - Task 5 */,
 				E497254928E50F1A005BAEC5 /* Products */,
 			);
 			sourceTree = "<group>";
