@@ -7,40 +7,12 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		E497256928E50F31005BAEC5 /* PBXContainerItemProxy */ = {
+		E47A400328E5130F00F4C8C5 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = E497256528E50F31005BAEC5 /* CS102 - Task 1.xcodeproj */;
+			containerPortal = E47A3FFF28E5130F00F4C8C5 /* CS102 - Task 1.xcodeproj */;
 			proxyType = 2;
-			remoteGlobalIDString = E497255B28E50F31005BAEC5;
+			remoteGlobalIDString = E47A3FF528E5130F00F4C8C5;
 			remoteInfo = "CS102 - Task 1";
-		};
-		E497258228E50F5D005BAEC5 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = E497257E28E50F5C005BAEC5 /* CS102 - Task 2.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = E497257428E50F5C005BAEC5;
-			remoteInfo = "CS102 - Task 2";
-		};
-		E497259B28E50F6D005BAEC5 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = E497259728E50F6D005BAEC5 /* CS102 - Task 3.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = E497258D28E50F6D005BAEC5;
-			remoteInfo = "CS102 - Task 3";
-		};
-		E49725B428E50F84005BAEC5 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = E49725B028E50F84005BAEC5 /* CS102 - Task 4.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = E49725A628E50F84005BAEC5;
-			remoteInfo = "CS102 - Task 4";
-		};
-		E49725CD28E50F93005BAEC5 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = E49725C928E50F93005BAEC5 /* CS102 - Task 5.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = E49725BF28E50F93005BAEC5;
-			remoteInfo = "CS102 - Task 5";
 		};
 /* End PBXContainerItemProxy section */
 
@@ -57,12 +29,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		E47A3FFF28E5130F00F4C8C5 /* CS102 - Task 1.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = "CS102 - Task 1.xcodeproj"; path = "../CS102 - Task 1/CS102 - Task 1.xcodeproj"; sourceTree = "<group>"; };
 		E497254828E50F1A005BAEC5 /* CS102 Assignment */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "CS102 Assignment"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E497256528E50F31005BAEC5 /* CS102 - Task 1.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = "CS102 - Task 1.xcodeproj"; path = "../CS102 - Task 1/CS102 - Task 1.xcodeproj"; sourceTree = "<group>"; };
-		E497257E28E50F5C005BAEC5 /* CS102 - Task 2.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = "CS102 - Task 2.xcodeproj"; path = "../CS102 - Task 2/CS102 - Task 2.xcodeproj"; sourceTree = "<group>"; };
-		E497259728E50F6D005BAEC5 /* CS102 - Task 3.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = "CS102 - Task 3.xcodeproj"; path = "../CS102 - Task 3/CS102 - Task 3.xcodeproj"; sourceTree = "<group>"; };
-		E49725B028E50F84005BAEC5 /* CS102 - Task 4.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = "CS102 - Task 4.xcodeproj"; path = "../CS102 - Task 4/CS102 - Task 4.xcodeproj"; sourceTree = "<group>"; };
-		E49725C928E50F93005BAEC5 /* CS102 - Task 5.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = "CS102 - Task 5.xcodeproj"; path = "../CS102 - Task 5/CS102 - Task 5.xcodeproj"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,14 +44,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E47A400028E5130F00F4C8C5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E47A400428E5130F00F4C8C5 /* CS102 - Task 1 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		E497253F28E50F1A005BAEC5 = {
 			isa = PBXGroup;
 			children = (
-				E49725C928E50F93005BAEC5 /* CS102 - Task 5.xcodeproj */,
-				E49725B028E50F84005BAEC5 /* CS102 - Task 4.xcodeproj */,
-				E497259728E50F6D005BAEC5 /* CS102 - Task 3.xcodeproj */,
-				E497257E28E50F5C005BAEC5 /* CS102 - Task 2.xcodeproj */,
-				E497256528E50F31005BAEC5 /* CS102 - Task 1.xcodeproj */,
+				E47A3FFF28E5130F00F4C8C5 /* CS102 - Task 1.xcodeproj */,
 				E497254928E50F1A005BAEC5 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -92,46 +64,6 @@
 			isa = PBXGroup;
 			children = (
 				E497254828E50F1A005BAEC5 /* CS102 Assignment */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		E497256628E50F31005BAEC5 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				E497256A28E50F31005BAEC5 /* CS102 - Task 1 */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		E497257F28E50F5C005BAEC5 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				E497258328E50F5D005BAEC5 /* CS102 - Task 2 */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		E497259828E50F6D005BAEC5 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				E497259C28E50F6D005BAEC5 /* CS102 - Task 3 */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		E49725B128E50F84005BAEC5 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				E49725B528E50F84005BAEC5 /* CS102 - Task 4 */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		E49725CA28E50F93005BAEC5 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				E49725CE28E50F93005BAEC5 /* CS102 - Task 5 */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -183,24 +115,8 @@
 			projectDirPath = "";
 			projectReferences = (
 				{
-					ProductGroup = E497256628E50F31005BAEC5 /* Products */;
-					ProjectRef = E497256528E50F31005BAEC5 /* CS102 - Task 1.xcodeproj */;
-				},
-				{
-					ProductGroup = E497257F28E50F5C005BAEC5 /* Products */;
-					ProjectRef = E497257E28E50F5C005BAEC5 /* CS102 - Task 2.xcodeproj */;
-				},
-				{
-					ProductGroup = E497259828E50F6D005BAEC5 /* Products */;
-					ProjectRef = E497259728E50F6D005BAEC5 /* CS102 - Task 3.xcodeproj */;
-				},
-				{
-					ProductGroup = E49725B128E50F84005BAEC5 /* Products */;
-					ProjectRef = E49725B028E50F84005BAEC5 /* CS102 - Task 4.xcodeproj */;
-				},
-				{
-					ProductGroup = E49725CA28E50F93005BAEC5 /* Products */;
-					ProjectRef = E49725C928E50F93005BAEC5 /* CS102 - Task 5.xcodeproj */;
+					ProductGroup = E47A400028E5130F00F4C8C5 /* Products */;
+					ProjectRef = E47A3FFF28E5130F00F4C8C5 /* CS102 - Task 1.xcodeproj */;
 				},
 			);
 			projectRoot = "";
@@ -211,39 +127,11 @@
 /* End PBXProject section */
 
 /* Begin PBXReferenceProxy section */
-		E497256A28E50F31005BAEC5 /* CS102 - Task 1 */ = {
+		E47A400428E5130F00F4C8C5 /* CS102 - Task 1 */ = {
 			isa = PBXReferenceProxy;
 			fileType = "compiled.mach-o.executable";
 			path = "CS102 - Task 1";
-			remoteRef = E497256928E50F31005BAEC5 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		E497258328E50F5D005BAEC5 /* CS102 - Task 2 */ = {
-			isa = PBXReferenceProxy;
-			fileType = "compiled.mach-o.executable";
-			path = "CS102 - Task 2";
-			remoteRef = E497258228E50F5D005BAEC5 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		E497259C28E50F6D005BAEC5 /* CS102 - Task 3 */ = {
-			isa = PBXReferenceProxy;
-			fileType = "compiled.mach-o.executable";
-			path = "CS102 - Task 3";
-			remoteRef = E497259B28E50F6D005BAEC5 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		E49725B528E50F84005BAEC5 /* CS102 - Task 4 */ = {
-			isa = PBXReferenceProxy;
-			fileType = "compiled.mach-o.executable";
-			path = "CS102 - Task 4";
-			remoteRef = E49725B428E50F84005BAEC5 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-		E49725CE28E50F93005BAEC5 /* CS102 - Task 5 */ = {
-			isa = PBXReferenceProxy;
-			fileType = "compiled.mach-o.executable";
-			path = "CS102 - Task 5";
-			remoteRef = E49725CD28E50F93005BAEC5 /* PBXContainerItemProxy */;
+			remoteRef = E47A400328E5130F00F4C8C5 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
 /* End PBXReferenceProxy section */
