@@ -6,16 +6,6 @@
 	objectVersion = 55;
 	objects = {
 
-/* Begin PBXContainerItemProxy section */
-		E47A400328E5130F00F4C8C5 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = E47A3FFF28E5130F00F4C8C5 /* CS102 - Task 1.xcodeproj */;
-			proxyType = 2;
-			remoteGlobalIDString = E47A3FF528E5130F00F4C8C5;
-			remoteInfo = "CS102 - Task 1";
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		E497254628E50F1A005BAEC5 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -29,7 +19,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		E47A3FFF28E5130F00F4C8C5 /* CS102 - Task 1.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = "CS102 - Task 1.xcodeproj"; path = "../CS102 - Task 1/CS102 - Task 1.xcodeproj"; sourceTree = "<group>"; };
+		E47A400528E5145600F4C8C5 /* CS102 - Task 1 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "CS102 - Task 1"; sourceTree = "<group>"; };
 		E497254828E50F1A005BAEC5 /* CS102 Assignment */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "CS102 Assignment"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -44,18 +34,10 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		E47A400028E5130F00F4C8C5 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				E47A400428E5130F00F4C8C5 /* CS102 - Task 1 */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
 		E497253F28E50F1A005BAEC5 = {
 			isa = PBXGroup;
 			children = (
-				E47A3FFF28E5130F00F4C8C5 /* CS102 - Task 1.xcodeproj */,
+				E47A400528E5145600F4C8C5 /* CS102 - Task 1 */,
 				E497254928E50F1A005BAEC5 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -113,28 +95,12 @@
 			mainGroup = E497253F28E50F1A005BAEC5;
 			productRefGroup = E497254928E50F1A005BAEC5 /* Products */;
 			projectDirPath = "";
-			projectReferences = (
-				{
-					ProductGroup = E47A400028E5130F00F4C8C5 /* Products */;
-					ProjectRef = E47A3FFF28E5130F00F4C8C5 /* CS102 - Task 1.xcodeproj */;
-				},
-			);
 			projectRoot = "";
 			targets = (
 				E497254728E50F1A005BAEC5 /* CS102 Assignment */,
 			);
 		};
 /* End PBXProject section */
-
-/* Begin PBXReferenceProxy section */
-		E47A400428E5130F00F4C8C5 /* CS102 - Task 1 */ = {
-			isa = PBXReferenceProxy;
-			fileType = "compiled.mach-o.executable";
-			path = "CS102 - Task 1";
-			remoteRef = E47A400328E5130F00F4C8C5 /* PBXContainerItemProxy */;
-			sourceTree = BUILT_PRODUCTS_DIR;
-		};
-/* End PBXReferenceProxy section */
 
 /* Begin PBXSourcesBuildPhase section */
 		E497254428E50F1A005BAEC5 /* Sources */ = {
