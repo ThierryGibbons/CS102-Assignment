@@ -1,9 +1,8 @@
-/*
-  main.cpp
-  CS102 - Task 1
-
-  Created by Thierry Gibbons on 5/10/22.
-*/
+//
+//   CS102 - Task 1
+//
+//   Created by Thierry Gibbons on 5/10/22.
+//
 
 
 /*
