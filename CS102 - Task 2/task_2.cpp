@@ -4,6 +4,7 @@
 //  Created by Thierry Gibbons on 6/10/22.
 //
 
+//  Includes:
 #include <iostream>
 
 using namespace std;
@@ -17,7 +18,6 @@ int main() {
     //  Variables
     int startingNum{}, endingNum{}, tempNum{};
     bool runTime = true;
-
 
     //  Loop to get correct user input
     while (runTime) {
