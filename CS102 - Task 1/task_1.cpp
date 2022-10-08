@@ -39,7 +39,7 @@ int main()
     findRealX1 = realCalcX1(x1, numA, numB, numC);
     findRealX2 = realCalcX2(x2, numA, numB, numC);
 
-    //  Output: roots are []
+    //  Output: roots are ?
     if (findRealX1 < 0 && findRealX2 < 0) {
         cout << "roots are imaginary";
     }
