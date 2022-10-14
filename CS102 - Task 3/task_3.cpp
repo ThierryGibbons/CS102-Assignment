@@ -6,7 +6,6 @@
 
 //  Includes:
 #include <iostream>
-#include <cstdlib>
 
 using namespace std;
 
@@ -20,7 +19,7 @@ int main() {
     cout << "Random numbers between 10 to 20\n*****************************************\n";
 
     srand((unsigned)time(NULL));
-    
+
     for(int i=0; i<6; i++) {    //Loop 6 times
 
         x = 10 + (rand() % 11); //Random number 10-20
