@@ -1,7 +1,7 @@
 //
 //  CS102 - Task 2
 //
-//  Created by Thierry Gibbons on 6/10/22.
+//  Created by Thierry Gibbons.
 //
 
 //  Includes:

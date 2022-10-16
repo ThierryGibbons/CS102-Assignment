@@ -1,7 +1,7 @@
 //
 //  CS102 - Task 3
 //
-//  Created by Thierry Gibbons on 8/10/22.
+//  Created by Thierry Gibbons.
 //
 
 //  Includes:

@@ -1,7 +1,7 @@
 //
 //  CS102 - Task 4
 //
-//  Created by Thierry Gibbons on 13/10/22.
+//  Created by Thierry Gibbons.
 //
 
 #include <iostream>
